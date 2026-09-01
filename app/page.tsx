@@ -20,7 +20,7 @@ export default function Home() {
       </section>
       <section className="intro"><p className="eyebrow">STARLINKBOLIVIAONLINE</p><h2>Conectividad de nueva generación.</h2><p>Descubre equipos y soluciones diseñados para mantenerte conectado, estés donde estés.</p></section>
       <section className="cta"><p className="eyebrow">LISTO PARA COMENZAR</p><h2>Conecta tu próximo proyecto.</h2><Link className="primary" href="/productos">EXPLORAR TIENDA</Link></section>
-      <footer><strong>STARLINKBOLIVIAONLINE</strong><span>GHOSTFAST · Importador de Starlink en Bolivia</span><span>© 2026 StarlinkBoliviaOnline</span><Link href="/admin">Administración</Link></footer>
+      <footer><strong>STARLINKBOLIVIAONLINE</strong><span>GHOSTFAST · Importador de Starlink en Bolivia</span><span>© 2026 StarlinkBoliviaOnline</span></footer>
     </main>
   )
 }
