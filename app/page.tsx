@@ -5,7 +5,7 @@ export default function Home() {
     <main className="site">
       <nav className="nav">
         <Link className="brand" href="/">STARLINKBOLIVIAONLINE</Link>
-        <div className="links"><Link href="/productos">Productos</Link><Link href="/categorias">Servicios</Link><Link href="/carrito">Carrito</Link></div>
+        <div className="links"><Link href="/productos">Productos</Link><Link href="/carrito">Carrito</Link></div>
         <Link className="navButton" href="/productos">COMPRAR</Link>
       </nav>
       <section className="hero">
