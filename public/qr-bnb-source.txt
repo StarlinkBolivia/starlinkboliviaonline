@@ -1,0 +1,1 @@
+The production payment QR is maintained as the official BNB QR asset. Do not replace it with a placeholder graphic.
