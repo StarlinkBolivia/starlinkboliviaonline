@@ -1,4 +1,5 @@
 import './globals.css'
+import './store.css'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = { title: 'StarlinkBoliviaOnline', description: 'Tienda online de conectividad en Bolivia' }
